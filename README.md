@@ -49,13 +49,13 @@ trend analysis** on unemployment data in India.
 -   Average unemployment rate
 -   Region-wise analysis
 
-### 🔹 Visualizations
+### 📊 Visualizations Included
 
 -   Overall unemployment trend
 -   Top regions with highest unemployment
 -   Rural vs Urban comparison
 -   Correlation heatmap
--   Covid-19 impact analysis
+-   COVID-19 impact analysis
 -   Seasonal trend analysis
 -   Distribution plots
 
