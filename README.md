@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple)
 
 ### 📊 Exploring Unemployment Trends and the Impact of COVID-19
-:::
+
 
 ------------------------------------------------------------------------
 
