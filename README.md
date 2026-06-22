@@ -89,11 +89,10 @@ CodeAlpha_Unemployment-Analysis-with-Python/
 ├── LICENSE                                # License file
 ├── README.md                              # Documentation
 └── requirements.txt                       # Dependencies
-
-
-
-
+```
+------------------------------------------------------------------------
 🙋 Author
-**Md. Miraj-Ul-Islam**
+Md. Miraj-Ul-Islam
 
-⭐ If you found this project useful, consider giving it a star
+GitHub: @Mrj086
+LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
