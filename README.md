@@ -79,21 +79,21 @@ python unemployment_analysis.py
 
 ## 📁 Project Structure
 
-``` text
-Task2.Unemployment-Analysis
-│
-├── unemployment_analysis.py
-├── Unemployment in India.csv
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
+CodeAlpha_Unemployment-Analysis-with-Python/
+├── Unemployment Analysis with Python/   # Main project folder
+│   ├── Unemployment in India.csv        # Dataset file
+│   ├── unemployment_analysis.py         # Python script
+│   ├── unemployment_analysis.ipynb      # Jupyter Notebook
+│   └── Task2_Unemployment_Analysis_Figures/ # Figures/outputs folder
+├── LICENSE                              # License file
+├── README.md                            # Documentation
+└── requirements.txt                     # Dependencies
+
 
 
 
 🙋 Author
-Md. Miraj-Ul-Islam
+**Md. Miraj-Ul-Islam**
 
 GitHub: @Mrj086
 LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
