@@ -1,6 +1,5 @@
 # 🚀 Unemployment Analysis with Python
 
-::: {align="center"}
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
