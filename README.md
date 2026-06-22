@@ -91,8 +91,11 @@ CodeAlpha_Unemployment-Analysis-with-Python/
 └── requirements.txt                       # Dependencies
 ```
 ------------------------------------------------------------------------
-🙋 Author
-Md. Miraj-Ul-Islam
+## 🙋 Author
 
-GitHub: @Mrj086
-LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
+**Md. Miraj-Ul-Islam**
+- GitHub: [@Mrj086](https://github.com/Mrj086)
+- LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
+
+
+⭐ If you found this project useful, consider giving it a star
