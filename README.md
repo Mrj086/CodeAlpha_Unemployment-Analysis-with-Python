@@ -12,7 +12,7 @@
 
 ## ✨ Project Overview
 
-This project performs **data cleaning, exploration, visualization, and
+This project was built as Task 2 of a data science internship series. This project performs **data cleaning, exploration, visualization, and
 trend analysis** on unemployment data in India.
 
 ### 🎯 Objectives
@@ -90,8 +90,13 @@ Task2.Unemployment-Analysis
 └── .gitignore
 ```
 
+
+
+🙋 Author
+Md. Miraj-Ul-Islam
+
+GitHub: @Mrj086
+LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
 ------------------------------------------------------------------------
 
-::: {align="center"}
-⭐ If you found this project useful, consider giving it a star!
-:::
+⭐ If you found this project useful, consider giving it a star
