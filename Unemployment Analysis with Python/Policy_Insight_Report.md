@@ -21,11 +21,6 @@ The analysis was conducted using Python for data cleaning, exploratory data anal
 
 ## Key Findings
 
-*(Continue with the rest of the report...)*
-
-
-## Key Findings
-
 ### 1. Significant Increase During COVID-19
 
 The unemployment rate experienced a sharp rise during the COVID-19 lockdown period. Economic activities were disrupted, businesses closed temporarily, and many workers lost their jobs.
