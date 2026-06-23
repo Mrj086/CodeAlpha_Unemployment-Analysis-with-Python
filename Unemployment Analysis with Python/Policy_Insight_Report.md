@@ -115,7 +115,7 @@ The unemployment analysis highlights the substantial economic and social consequ
 
 This project was completed as part of the **CodeAlpha Data Science Internship Program**. The objective of this task was to analyze unemployment data using Python, uncover meaningful trends through data visualization, and derive insights that could inform economic and social policy decisions.
 
-**Prepared by:** Md. Miraj-Ul-Islam\ 
-**Student ID:** CA/DF1/162970 \ 
-**Internship:** CodeAlpha Data Science Internship \ 
-**Task:** Unemployment Analysis with Python\
+**Prepared by:** Md. Miraj-Ul-Islam
+**Student ID:** CA/DF1/162970 
+**Internship:** CodeAlpha Data Science Internship
+**Task:** Unemployment Analysis with Python
