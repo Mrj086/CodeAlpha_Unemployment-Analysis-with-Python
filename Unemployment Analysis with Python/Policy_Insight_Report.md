@@ -3,7 +3,7 @@
 ## Project Information
 
 **Project Title:** Unemployment Analysis with Python
-**Internship Program:** CodeAlpha Data Science Internship
+**CodeAlpha Internship Program:** Data Science\
 **Task:** Task 2 – Unemployment Analysis with Python
 
 **Prepared By:** Md. Miraj-Ul-Islam
