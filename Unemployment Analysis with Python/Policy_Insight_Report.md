@@ -117,5 +117,5 @@ This project was completed as part of the **CodeAlpha Data Science Internship Pr
 
 **Prepared by:** Md. Miraj-Ul-Islam <br>
 **Student ID:** CA/DF1/162970 <br>
-**Internship:** CodeAlpha Data Science Internship <br>
+**CodeAlpha Internship:**Data Science<br>
 **Task:** Unemployment Analysis with Python <br>
